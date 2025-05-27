@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+llama-parse
+python-multipart
+python-dotenv
+nest_asyncio
